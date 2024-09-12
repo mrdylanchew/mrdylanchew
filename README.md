@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi there, I'm Dylan 
+I'm a Software Engineer graduate from Singapore Institute of Technology (SIT),
+passionate about building impactful projects that make a difference.
+Always eager to learn and collaborate with others.
+
+## 💻 Tech Stack
+- Languages: ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Frameworks: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- Tools: Git, Docker, VSCode
 
 <!--
 **mrdylanchew/mrdylanchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
