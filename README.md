@@ -1,11 +1,7 @@
-## 👋 Hi there, I'm Dylan 
+## 🧑 Introduction
+I'm a Software Engineer graduate from Singapore Institute of Technology (SIT), passionate about building impactful projects that make a difference. Always eager to learn and collaborate with others.
 
-### 🧑 Introduction
-I'm a Software Engineer graduate from Singapore Institute of Technology (SIT),
-passionate about building impactful projects that make a difference.
-Always eager to learn and collaborate with others.
----
-### 💻 Tech Stack
+## 💻 Tech Stack
 - **Languages**:  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
                   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
                   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -27,7 +23,24 @@ Always eager to learn and collaborate with others.
              ![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-blue?style=for-the-badge&logo=jenkins&logoColor=white)
 
 - **Cloud**:  ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
----
-### 📖 Projects
 
+## 📖 Projects (Industry)
+### Orion Governance Data Science Project:
+- Developed an automation script for data profiling and data validation.
+- Used Python to streamline data retrieval, convert large datasets, and display relevant data on a dashboard.
+- Improved data quality, reduced errors, and enhanced decision-making through data accuracy and governance.
+- Came up with specific scoring metrics to measure.
+- Skills: Model-View-Controller (MVC), Python, Data Analytics.
 
+### DHL Lead Qualification (LQ App):
+- Developed a web application using the .NET framework and hosted on Azure cloud.
+- API development to create endpoints, allowing other system to interact.
+- data management and customer identification features.
+- Sales profiling tool to preview revenue based on shipment origin/destination and type.
+- Skills: API development, .NET, MySQL, Azure
+
+### Chew On This UK Website Design: 
+- Helped to modify their web design for better readability and aethetics.
+- Updated and added HTML to showcase menu items and visuals
+- Integrated third-party plugin for table reservation service
+- Skills: Web design
